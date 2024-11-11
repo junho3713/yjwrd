@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'GmarketSansMedium';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/GmarketSansMedium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url('http://fonts.googleapis.com/earlyaccess/nanumgothic.css');
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+    font-weight: 400;
+    color: #2f2f2f;
+}
